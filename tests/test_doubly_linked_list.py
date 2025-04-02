@@ -109,7 +109,7 @@ class TestDoublyLinkedList(unittest.TestCase):
         self.lst.append('b')
         self.lst.append('c')
         self.lst.reverse()
-        self.assertEqual([node.value for node in self._iterate(self.lst.head)], ['1234567890'])
+        self.assertEqual([node.value for node in self._iterate(self.lst.head)], ['c', 'b', 'a'])
 
         # Reverse an empty list
         empty_lst = DoublyLinkedList()
