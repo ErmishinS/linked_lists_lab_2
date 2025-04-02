@@ -40,7 +40,7 @@ python3 -m unittest discover tests
 ```
 
 ## Link to commit with failed tests
-[failed commit](https://github.com/ErmishinS/quadratic-equation-solver/commit/a4b8c605d72e175bb370b0f65b34752df51bc8f1)
+[failed commit](https://github.com/ErmishinS/linked_lists_lab_2/commit/39c53aceb8cbefbcc5dd3f0c9965ed64ce13d4aa)
 
 ## Conclusions
 This project was particularly useful for me as it provided an opportunity to work extensively with unit tests, an area in which I had limited experience before. The process of writing and running unit tests for the first time helped me understand their value in ensuring code reliability and preventing issues during development. Additionally, setting up Continuous Integration (CI) with GitHub Actions was an invaluable learning experience. I had never configured CI before, so it was a great opportunity to automate testing and make the process more efficient. In the end, unit tests and CI were incredibly helpful, and they made the development process smoother and more reliable, which I hadn’t fully appreciated before starting this project.
